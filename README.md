@@ -4,7 +4,7 @@
 
 ## Welcome to the OpenTelemetry Astronomy Shop Demo
 
-Overview
+## Overview
 
 This project demonstrates CI/CD automation, Kubernetes deployment, and observability for microservices-based applications using OpenTelemetry, GitOps (ArgoCD), Docker, and AWS EKS. The goal is to simulate a real-world DevOps workflow and provide hands-on experience with modern cloud-native practices.
 
@@ -23,8 +23,7 @@ AWS Networking: Configured VPC, Load Balancers (ALB), Ingress, Route53, and IAM 
 Custom Domain Access: Sample deployment accessible via a placeholder domain (example.com).
 
 
-
-Tech Stack
+## Tech Stack
 
 Cloud Platforms: AWS (EKS, EC2, S3, VPC, Route53)
 
@@ -40,3 +39,14 @@ Monitoring & Observability: OpenTelemetry, Prometheus, Grafana
 
 Programming Languages: Java, Python, Golang
 
+## Key Learnings
+
+Hands-on experience with GitOps workflows using ArgoCD.
+
+Deployment of multi-language microservices on AWS EKS.
+
+Managing Kubernetes infrastructure as code with Terraform and secure remote state.
+
+Implementing observability using OpenTelemetry, Prometheus, and Grafana.
+
+Understanding AWS networking components and configuring secure access to services.
